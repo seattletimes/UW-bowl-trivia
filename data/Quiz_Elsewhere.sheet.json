@@ -1,0 +1,30 @@
+[
+  {
+    "order": 1,
+    "title": "Test more of your Huskies knowledge with another quiz",
+    "category": "Trivia",
+    "link": "http://projects.seattletimes.com/2016/quizzes/Huskies-trivia-quiz/",
+    "image": "teaser1.jpg"
+  },
+  {
+    "order": 2,
+    "title": "Predict the Cougars season with our WSU season picker",
+    "category": "Make your pick",
+    "link": "http://projects.seattletimes.com/2016/sports/wsu-season-predictor/",
+    "image": "teaser2.jpg"
+  },
+  {
+    "order": 3,
+    "title": "Pick weekly college and NFL games for your chance to win great prizes!",
+    "category": "Guest Guesser",
+    "link": "http://seattletimes.upickem.net/upickem/registration/login.asp?contestid=259358",
+    "image": "teaser3.jpg"
+  },
+  {
+    "order": 4,
+    "title": "Read up on all our coverage of UW's run to the College Football Playoff",
+    "category": "College Football Playoff",
+    "link": "http://www.seattletimes.com/sports/uw-huskies/",
+    "image": "teaser4.jpg"
+  }
+]

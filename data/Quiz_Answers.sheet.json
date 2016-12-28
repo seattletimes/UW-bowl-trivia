@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "answer": "Steve Pelluer"
+  },
+  {
+    "id": 1,
+    "answer": "Jacque Robinson",
+    "correct": "Jacque Robinson. The running back rushed for 142 yards and two touchdowns in the 1982 Rose Bowl win over Iowa and  for 135 yards and a touchdown in the 1985 Orange Bowl win over Oklahoma. "
+  },
+  {
+    "id": 1,
+    "answer": "Paul Skansi"
+  },
+  {
+    "id": 1,
+    "answer": "Anthony Allen"
+  },
+  {
+    "id": 2,
+    "answer": 8
+  },
+  {
+    "id": 2,
+    "answer": 10,
+    "correct": "Don James was 10-4 in bowl games."
+  },
+  {
+    "id": 2,
+    "answer": 12
+  },
+  {
+    "id": 2,
+    "answer": 14
+  },
+  {
+    "id": 3,
+    "answer": "1938 Pineapple Bowl vs. Hawaii"
+  },
+  {
+    "id": 3,
+    "answer": "1978 Rose Bowl vs. Michigan"
+  },
+  {
+    "id": 3,
+    "answer": "1985 Orange Bowl vs. Oklahoma"
+  },
+  {
+    "id": 3,
+    "answer": "1961 Rose Bowl vs. Minnesota",
+    "correct": "Washington defeated No. 1 Minnesota 17-7."
+  },
+  {
+    "id": 4,
+    "answer": "1982 Rose Bowl vs. Iowa",
+    "correct": "UW defeated the Hawkeyes 28-0 in 1982."
+  },
+  {
+    "id": 4,
+    "answer": "1961 Rose Bowl vs. Minnesota"
+  },
+  {
+    "id": 4,
+    "answer": "1979 Sun Bowl vs. Texas"
+  },
+  {
+    "id": 4,
+    "answer": "1989 Freedom Bowl vs. Florida"
+  },
+  {
+    "id": 5,
+    "answer": "1983 Aloha Bowl vs. Penn State"
+  },
+  {
+    "id": 5,
+    "answer": "1926 Rose Bowl vs. Alabama"
+  },
+  {
+    "id": 5,
+    "answer": "1924 Rose Bowl vs. Navy",
+    "correct": "It was UW's first ever bowl game."
+  },
+  {
+    "id": 5,
+    "answer": "1985 Freedom Bowl vs. Colorado"
+  },
+  {
+    "id": 6,
+    "answer": "Michigan",
+    "correct": "The Huskies are 2-2 against the Wolverines in bowl games."
+  },
+  {
+    "id": 6,
+    "answer": "Texas"
+  },
+  {
+    "id": 6,
+    "answer": "Alabama"
+  },
+  {
+    "id": 6,
+    "answer": "Colorado"
+  },
+  {
+    "id": 7,
+    "answer": "Michael Jackson in 1978 Rose Bowl"
+  },
+  {
+    "id": 7,
+    "answer": "Paul Skansi in 1979 Sun Bowl",
+    "correct": "A year before Skansi was honored, future Seahawk Warren Moon was MVP of the 1978 Rose Bowl."
+  },
+  {
+    "id": 7,
+    "answer": "Beno Bryant in 1991 Rose Bowl"
+  },
+  {
+    "id": 7,
+    "answer": "Brock Huard in 1997 Aloha Bowl"
+  },
+  {
+    "id": 8,
+    "answer": "Don James"
+  },
+  {
+    "id": 8,
+    "answer": "Rick Neuheisal"
+  },
+  {
+    "id": 8,
+    "answer": "Keith Gilbertson"
+  },
+  {
+    "id": 8,
+    "answer": "Jim Lambright",
+    "correct": "The Huskies beat Michigan State 51-23 in the Aloha Bowl in 1997."
+  },
+  {
+    "id": 9,
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "answer": 2,
+    "correct": "The Huskies beat Michigan and receiver Desmond Howard 34-14 in the 1992 Rose Bowl and lost to Baylor and quarterback Robert Griffin III 67-56 in the 2011 Alamo Bowl."
+  },
+  {
+    "id": 9,
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "answer": 4
+  },
+  {
+    "id": 10,
+    "answer": "Independence"
+  },
+  {
+    "id": 10,
+    "answer": "Oahu"
+  },
+  {
+    "id": 10,
+    "answer": "Cotton",
+    "correct": "The Huskies have twice played and won the Freedom Bowl, once won the Indepedence Bowl and lost their only Oahu Bowl appearance. They have, however, played in the Cotton Bowl Stadium -- in last season's Heart of Dallas Bowl."
+  },
+  {
+    "id": 10,
+    "answer": "Freedom"
+  },
+  {
+    "id": 11,
+    "answer": "They each won their first bowl games as UW coach."
+  },
+  {
+    "id": 11,
+    "answer": "They beat Washington in bowl games before becoming UW coach.",
+    "correct": "Neuheisel and Colorado beat UW in the 1996 Holiday Bowl and Petersen and Boise State beat Washington in the 2012 Las Vegas Bowl."
+  },
+  {
+    "id": 11,
+    "answer": "They have coached UW for the same number of seasons."
+  },
+  {
+    "id": 11,
+    "answer": "Are you serious? They have nothing in common."
+  },
+  {
+    "id": 12,
+    "answer": 7
+  },
+  {
+    "id": 12,
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "answer": 6
+  },
+  {
+    "id": 12,
+    "answer": 4,
+    "correct": "The Don James Huskies won four straight in 1987, 1989, 1991 and 1992."
+  }
+]
