@@ -14,44 +14,18 @@
     <div class="outer">
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
-      <nav class="top-bar">
-        <a class="logo" href="http://seattletimes.com">
-          <img src="./assets/seattletimes.svg">
-        </a>
-      </nav>
-
-      <img class="splash" src="./assets/splash.jpg">
-
-      <header>
-
-        <h2 class="quiz-label">Label here</h2>
-        
-        <h1 class="title">
-
-            TITLE GOES
-
-          <div class="secondary">
-
-            HERE
-
-          </div>
-
-        </h1>
+      <img class="splash" src="http://static.seattletimes.com/wp-content/uploads/2016/12/bowlgamesILLOquiz.jpg">
 
         <p class="chatter">
 
-          Chatter goes here
-
-          <a class="share-button"></a>
-        </p>
-
+The Huskies are 9-0 and in the national title conversation for the first time since 1991. Do you think you know this team? Put your knowledge to test to see what degree you earn. Fair warning: Master's degrees won't come easy.
       </header>
 
       <div class="quiz-container">
 
         <div class="divider"></div>
 
-        <div class="quiz-box"> 
+        <div class="quiz-box">
 
           <!-- START OF QUIZ -->
           <div class="question-box"></div>
@@ -62,31 +36,19 @@
 
         <div class="credits">
 
-          First credit by <span class="credit-name">Author Name(s)</span> 
+        Quiz by <span class="credit-name">Scott Hanson</span>
 
-          &bull; 
+          &bull;
 
-          Second credit by <span class="credit-name">Author Name(s)</span>
+          Production by <span class="credit-name">Sean Quinton</span>
 
         </div>
-
-        <div class="sources">
-          Source: <span class="credit-name">Source Name</span>
-        </div>
-
-        <%= t.include("partials/_dontMiss.html", { data: json.Quiz_Elsewhere }) %>
-
-        <div class="bottom-ad"><%= t.include("partials/_ad.html", { type: "bannerBottom" }) %></div>
-      </div>
-    </div>
-
-    <%= t.include("partials/_navBottom.html") %>
 
     <script>
-      <% 
+      <%
         var quizData = {};
         json.Quiz_Questions.forEach(function(q) {
-          quizData[q.id] = { 
+          quizData[q.id] = {
             "question": q.question,
             "image": q.image
           };
@@ -94,7 +56,7 @@
         json.Quiz_Answers.forEach(function(a, index) {
           var id = a.id;
           if (!quizData[id].answers) { quizData[id].answers = [] }
-          var answer = { 
+          var answer = {
             "answer": a.answer,
             "correct": a.correct,
             "id": index

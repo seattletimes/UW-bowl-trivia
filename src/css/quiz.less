@@ -26,7 +26,7 @@ button {
   &.active {
     background: @submit-color;
     cursor: pointer;
-    
+
     &:hover {
       background: darken(@submit-color, 10%);
     }
@@ -45,7 +45,7 @@ button {
 .question-box {
   padding: 0 30px;
   display: inline-block;
-  
+
   .inner {
 
     @media @break {
@@ -58,15 +58,13 @@ button {
   }
 
   .inset-image {
-    margin-left: 40px;
-    width: 200px;
-    float: left;
-    margin-right: 60px;
+    margin: auto;
   }
 
   .question-inner {
-    display: inline-block;
-    width: 50%;
+    display: block;
+    margin: auto;
+    width: 70%;
 
     @media @mobile {
       width: 100%;
@@ -153,4 +151,3 @@ button {
     margin: 0;
   }
 }
-

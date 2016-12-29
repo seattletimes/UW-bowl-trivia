@@ -1,9 +1,10 @@
 <div class="inner">
   <div class="inset-image">
-    <img src="./assets/quiz/{{image}}">
+    {{#image}}<img src="./assets/quiz/{{image}}">{{/image}}
   </div>
 
   <div class="question-inner">
+
     <div class="answer">
       <div class="index"></div>
       <span class="highlight correct">{{#hooray}}Right!{{/hooray}}</span>
