@@ -11,10 +11,13 @@
   </head>
   <body>
 
+    <%= t.include("partials/_nav.html") %>
+
     <div class="outer">
+
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
-      <img class="splash" src="http://static.seattletimes.com/wp-content/uploads/2016/12/bowlgamesILLOquiz.jpg">
+      <img class="splash" src="./assets/header.jpg">
 
         <p class="chatter">
 With the Huskies playing in their 37th bowl game, here is a test of your Washington bowl knowledge.
@@ -43,6 +46,10 @@ With the Huskies playing in their 37th bowl game, here is a test of your Washing
           Production by <span class="credit-name">Sean Quinton and Evan Webeck</span>
 
         </div>
+
+      </div>
+
+    <%= t.include("partials/_navBottom.html") %>
 
     <script>
       <%
