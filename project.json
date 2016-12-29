@@ -2,20 +2,20 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": ""
+      "path": "uw bowl trivia"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
       "path": "2016/quizzes/UW-bowl-trivia"
     }
   },
-  "title": "",
-  "description": "",
+  "title": "UW Huskies bowl game quiz",
+  "description": "Test your Huskies knowledge with this bowl game quiz.",
   "url": "http://projects.seattletimes.com/2016/quizzes/UW-bowl-trivia/",
-  "slug": "",
-  "tags": [ "quiz" ],
+  "slug": "UW Huskies bowl game trivia",
+  "tags": ["quiz"],
   "image": "assets/social.jpg",
   "sheets": ["1y8nhcakVJtNh-cZPFB_2ePYhF3ecINnrcd25tFnXnYo"],
-  "production": false,
+  "production": true,
   "embedded": false
 }

@@ -1,39 +1,26 @@
 [
   {
-    "min": 6,
-    "max": 8,
-    "title": "On track to graduate",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
-  },
-  {
-    "min": 9,
-    "max": 11,
-    "title": "A Bachelor's degree",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
-  },
-  {
-    "min": 12,
-    "max": 14,
-    "title": "A Master",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
-  },
-  {
-    "min": 15,
-    "max": 15,
-    "title": "PHD",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
-  },
-  {
     "min": 0,
     "max": 5,
-    "title": "Hit the books"
+    "title": "Blame the questions",
+    "description": "Are you serious, who is supposed to know the Huskies tied Navy in 1924?"
+  },
+  {
+    "min": 6,
+    "max": 9,
+    "title": "Nothing to be ashamed of",
+    "description": "You’re more than just a bandwagon fan.",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "min": "`10",
+    "max": 12,
+    "title": "UW Bowl Scholar",
+    "description": "You clearly know your Husky football and feel free to brag to your friends about your great score.",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
   }
 ]
